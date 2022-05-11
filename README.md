@@ -14,6 +14,7 @@
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZachGleason" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZachGleason&theme=vue" />
 
 
 

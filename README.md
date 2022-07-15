@@ -5,7 +5,7 @@
 
 <p> I am a highly motivated, creative, and intuitive full-stack software engineer who has a huge passion for computers and anything technology related. Anything and everything that can be classified as technology excites me! 
 
-I currently live in Sonoma County, pursuing my interests in Software Engineering with CodingDojo and was previously a student at Santa Rosa JC studying as a Real Estate student. In my spare time when i'm not coding, I enjoy being at the beach surfing, competing in powerlifting, and spending time with my family & friends! </p>
+I currently live in Sonoma County, pursuing my interests in Front-End Software Development after graduating from CodingDojo and was previously a student at Santa Rosa JC studying as a Real Estate student. In my spare time when i'm not coding, I enjoy being at the beach surfing, competing in powerlifting, and spending time with my family & friends! </p>
 
 <hr>
 <h2>💻 Technologies & Tools</h2>
